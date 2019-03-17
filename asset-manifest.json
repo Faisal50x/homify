@@ -1,14 +1,14 @@
 {
-  "main.css": "/homify/static/css/main.3f4dc34e.chunk.css",
-  "main.js": "/homify/static/js/main.e183b946.chunk.js",
-  "main.js.map": "/homify/static/js/main.e183b946.chunk.js.map",
+  "main.css": "/homify/static/css/main.c826463f.chunk.css",
+  "main.js": "/homify/static/js/main.f8038eb8.chunk.js",
+  "main.js.map": "/homify/static/js/main.f8038eb8.chunk.js.map",
   "runtime~main.js": "/homify/static/js/runtime~main.6e357320.js",
   "runtime~main.js.map": "/homify/static/js/runtime~main.6e357320.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/homify/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/homify/static/js/2.8f71a45e.chunk.js.map",
+  "static/js/2.198bb27f.chunk.js": "/homify/static/js/2.198bb27f.chunk.js",
+  "static/js/2.198bb27f.chunk.js.map": "/homify/static/js/2.198bb27f.chunk.js.map",
   "index.html": "/homify/index.html",
-  "precache-manifest.b72a35731a48cb7d188a5e21bc53ebe6.js": "/homify/precache-manifest.b72a35731a48cb7d188a5e21bc53ebe6.js",
+  "precache-manifest.a3cbee45cd9ef36a4df0402cae9d035b.js": "/homify/precache-manifest.a3cbee45cd9ef36a4df0402cae9d035b.js",
   "service-worker.js": "/homify/service-worker.js",
-  "static/css/main.3f4dc34e.chunk.css.map": "/homify/static/css/main.3f4dc34e.chunk.css.map",
+  "static/css/main.c826463f.chunk.css.map": "/homify/static/css/main.c826463f.chunk.css.map",
   "static/media/logo.svg": "/homify/static/media/logo.5d5d9eef.svg"
 }
