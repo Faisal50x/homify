@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "839043c49aefa99549e8",
-    "url": "/homify/static/css/main.c173c8f4.chunk.css"
+    "revision": "2f934bce1e54d70e9cbb",
+    "url": "/homify/static/css/main.771d36bd.chunk.css"
   },
   {
-    "revision": "839043c49aefa99549e8",
-    "url": "/homify/static/js/main.b1d72b55.chunk.js"
+    "revision": "2f934bce1e54d70e9cbb",
+    "url": "/homify/static/js/main.c1f158db.chunk.js"
   },
   {
     "revision": "2991042e83adaa08703c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/homify/static/js/2.8549f470.chunk.js"
   },
   {
-    "revision": "a45cace04e49447aaedea415628eb812",
+    "revision": "1dd4bc47189dddd4d8a5cb028d4c5371",
     "url": "/homify/index.html"
   }
 ];
